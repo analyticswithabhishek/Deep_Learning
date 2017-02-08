@@ -1,7 +1,7 @@
 # Welcome to the world of Deep Learning !
 
 ## Some useful links for reference: 
-1. Recommended Deep Learning tutorial:  http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
+1. http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
 2. http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 3. http://www.deeplearningbook.org/
 
