@@ -5,6 +5,7 @@
 2. http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning
 3. http://www.deeplearningbook.org/
 
+Python code files to be updated by the end of this week !! 
 --------------------------------------------------------------------------
 _For any consultation, queries, doubts and conceptual clarity feel free to reach out:_
 * _Email: abhishekmishra87@gmail.com_
