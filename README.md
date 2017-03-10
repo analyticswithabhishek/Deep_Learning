@@ -1,4 +1,5 @@
-# Welcome to the world of Deep Learning, Graphical Models and Reinforcement Learning !
+# IDS 576: Advanced Predictive Analytics course @ University of Illinois, Chicago
+## Welcome to the world of Deep Learning, Graphical Models and Reinforcement Learning !
 
 ## Some useful links for reference: 
 1. http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial
