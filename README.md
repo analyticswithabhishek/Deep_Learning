@@ -1,4 +1,4 @@
-# IDS 576: Advanced Predictive Analytics
+## IDS 576: Advanced Predictive Analytics
 ## @ University of Illinois, Chicago
 ## Welcome to the world of Deep Learning, Graphical Models and Reinforcement Learning !
 
